@@ -1,0 +1,40 @@
+CLEANING_REPORT_V1
+report_id: 8e67b5a0e6a0
+roomId: 101
+cleanerId: USER_01
+startedAt: 2026-01-28T01:48:28.956Z
+finishedAt: 2026-01-28T02:08:15.209Z
+durationSeconds: 220
+totalScore: 100
+
+tasks:
+- id: trash
+  status: ok
+  score: 100
+  checkedAt: 
+  notes: 
+- id: bed
+  status: ok
+  score: 100
+  checkedAt: 
+  notes: 
+- id: bath
+  status: ok
+  score: 100
+  checkedAt: 
+  notes: 
+- id: sink
+  status: ok
+  score: 100
+  checkedAt: 
+  notes: 
+- id: floor
+  status: ok
+  score: 100
+  checkedAt: 
+  notes: 
+- id: amen
+  status: ok
+  score: 100
+  checkedAt: 
+  notes: 
